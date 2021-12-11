@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ayushhj21
+- 👋 Hi, I’m Ayush Jain
 - 👀 I’m interested in Backend Development
 - 🌱 I’m currently learning Javascript,Node.js,MongoDb,Creating API's
 - 💞️ I’m looking to collaborate on ...
