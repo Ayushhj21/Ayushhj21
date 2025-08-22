@@ -4,9 +4,8 @@ Hi 👋 My name is Ayush Jain
 Software Development Engineer
 -----------------------------
 
-* 🌍  I'm based in Bangalore
+* 🌍  I'm based in Mumbai
 * ✉️  You can contact me at [ayushjain21.nmims@gmail.com](mailto:ayushjain21.nmims@gmail.com)
-* 🧠  I'm learning Golang
 
 ### Skills
 
